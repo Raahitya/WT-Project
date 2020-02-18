@@ -2,12 +2,12 @@
 {
 "firstName":"Raahitya",
 "lastName":"V",
-"age":23,
+"age":21,
 "marks":[{
-"english":23
+"english":94
 },
 {
-"math":28
+"math":97
 }
 ],
 "address":"hyd"
